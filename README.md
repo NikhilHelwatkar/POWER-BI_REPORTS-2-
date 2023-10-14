@@ -1,4 +1,4 @@
-# COVID-19 Report
+# Power BI COVID-19 Report
 
 This repository contains a comprehensive report on the COVID-19 pandemic, covering various aspects such as its background, impact, and response. 
 
