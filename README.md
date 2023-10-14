@@ -36,5 +36,3 @@ We welcome contributions and improvements to this report. If you have suggestion
 ## Acknowledgments
 
 We extend our gratitude to the dedicated individuals, healthcare professionals, and organizations working tirelessly to combat the COVID-19 pandemic.
-
-Explore the report to stay informed about the COVID-19 situation in your region and beyond. Together, we can better understand the pandemic's impact and contribute to informed decision-making.
