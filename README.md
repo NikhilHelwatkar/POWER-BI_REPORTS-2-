@@ -37,6 +37,3 @@ This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 
 We extend our gratitude to the dedicated individuals, healthcare professionals, and organizations working tirelessly to combat the COVID-19 pandemic.
 
 Explore the report to stay informed about the COVID-19 situation in your region and beyond. Together, we can better understand the pandemic's impact and contribute to informed decision-making.
-
-
-![P1](https://github.com/NikhilHelwatkar/POWER-BI_REPORTS-2-/assets/99130425/917e38fb-be5c-4d81-94b2-6e50b362d74c)
